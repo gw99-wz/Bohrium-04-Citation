@@ -1,0 +1,16 @@
+{
+  "case_id": "selftest-clean-01",
+  "task": "整理《单层 WS2 中激子局域化与缺陷发射的关联》的引用：合并重复文献、重排编号、核验每条引用。目标规范：GB/T 7714-2015 顺序编码制。",
+  "manuscript": "manuscript.md",
+  "library": "library.json",
+  "style": "GB/T 7714-2015",
+  "output_contract": {
+    "case_id": "string",
+    "status": "success|partial|unable",
+    "manuscript": "markdown 全文",
+    "references": "结构化文献表",
+    "merge_decisions": "去重决策",
+    "citation_ledger": "逐条核验账本",
+    "uncertainty": "不确定项"
+  }
+}

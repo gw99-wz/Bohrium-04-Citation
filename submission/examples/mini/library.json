@@ -1,0 +1,33 @@
+{
+  "records": [
+    {
+      "题名": "二维半导体光致发光研究进展",
+      "作者": "张伟",
+      "刊名": "物理学报",
+      "年份": "2021",
+      "卷": "70",
+      "期": "8",
+      "页码": "087801",
+      "来源数据库": "CNKI"
+    },
+    {
+      "title": "Defect emission in monolayer WS2",
+      "authors": ["Wang L", "Chen H"],
+      "journal": "Applied Physics Letters",
+      "year": 2020,
+      "volume": "116",
+      "issue": "12",
+      "pages": "123101",
+      "doi": "10.1063/5.0001234"
+    },
+    {
+      "title": "Carrier dynamics in monolayer WS2",
+      "authors": ["Liu Q"],
+      "journal": "Chinese Science Bulletin",
+      "year": 2022,
+      "volume": "52",
+      "issue": "2",
+      "pages": "027001"
+    }
+  ]
+}

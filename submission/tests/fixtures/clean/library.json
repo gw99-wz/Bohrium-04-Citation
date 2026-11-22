@@ -1,0 +1,109 @@
+{
+  "records": [
+    {
+      "题名": "二维半导体光致发光研究进展",
+      "作者": "张伟;李明",
+      "刊名": "物理学报",
+      "年份": "2021",
+      "卷": "70",
+      "期": "8",
+      "页码": "087801",
+      "来源数据库": "CNKI"
+    },
+    {
+      "title": "Defect emission in monolayer WS2",
+      "authors": ["Wang L", "Chen H"],
+      "journal": "Applied Physics Letters",
+      "year": 2020,
+      "volume": "116",
+      "issue": "12",
+      "pages": "123101"
+    },
+    {
+      "title": "Exciton emission and defect states in monolayer WS2",
+      "title_zh": "单层WS2中激子发光与缺陷态",
+      "author": "Perea-López N; Elías A L; Berkdemir A",
+      "journal": "ACS Nano",
+      "year": 2013,
+      "volume": "7",
+      "issue": "7",
+      "pages": "6109-6118",
+      "doi": "10.1021/nn401629q",
+      "abstract": "单层 WS2 由机械剥离法制备并转移至 SiO2/Si 衬底，低温光致发光呈现中性激子峰与低能缺陷峰，缺陷态密度决定低能发射强度。"
+    },
+    {
+      "TI": "Exciton localization in two-dimensional tungsten disulfide",
+      "AU": ["Chen H", "Wang L"],
+      "JO": "Physical Review B",
+      "PY": "2019",
+      "VL": "99",
+      "IS": "15",
+      "SP": "155201"
+    },
+    {
+      "title": "Exciton trapping dynamics in monolayer WS2",
+      "authors": ["Zhao Y", "Liu Q"],
+      "arxiv": "2104.01234",
+      "year": 2021,
+      "type": "preprint"
+    },
+    {
+      "title": "Ultrafast spectroscopy of 2D materials",
+      "authors": ["Smith J", "Doe A"],
+      "journal": "Nature Photonics",
+      "year": 2018,
+      "volume": "12",
+      "issue": "3",
+      "pages": "145-152"
+    },
+    {
+      "title": "Exciton trapping dynamics in monolayer WS2",
+      "authors": ["Zhao Y", "Liu Q"],
+      "journal": "Nano Letters",
+      "year": 2021,
+      "volume": "21",
+      "issue": "9",
+      "pages": "3901-3908",
+      "doi": "10.1021/acs.nanolett.1c01122",
+      "abstract": "时间分辨光谱显示低能缺陷峰寿命显著长于中性激子峰；低能峰强度随温度升高快速热淬灭，拟合得到的激活能约为 18 meV。"
+    },
+    {
+      "题名": "单层二硫化钨的载流子动力学",
+      "作者": "刘强;赵阳",
+      "刊名": "中国科学: 物理学 力学 天文学",
+      "年份": "2022",
+      "卷": "52",
+      "期": "2",
+      "页码": "027001"
+    },
+    {
+      "title": "Exciton emission and defect states in monolayer WS2",
+      "authors": ["Perea-Lopez N", "Elias A L", "Berkdemir A"],
+      "journal": "ACS NANO",
+      "year": "2013",
+      "volume": "7",
+      "issue": "7",
+      "pages": "6109-6118",
+      "doi": "https://doi.org/10.1021/nn401629q",
+      "source": "EndNote"
+    },
+    {
+      "题名": "Exciton localization in two-dimensional tungsten disulfide",
+      "作者": "Chen H;Wang L",
+      "刊名": "Physical Review B",
+      "年份": "2019",
+      "页码": "155201",
+      "doi": "10.1103/PhysRevB.99.155201",
+      "来源数据库": "CNKI"
+    },
+    {
+      "title": "Strain engineering of WS2 photoluminescence",
+      "authors": ["Wang L", "Zhang Y"],
+      "journal": "2D Materials",
+      "year": 2020,
+      "volume": "7",
+      "issue": "2",
+      "pages": "025012"
+    }
+  ]
+}

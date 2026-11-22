@@ -5,6 +5,8 @@
 # 运行时产物
 work/
 output/
+.build/
+.selftest/
 *.pyc
 *.pyo
 __pycache__/

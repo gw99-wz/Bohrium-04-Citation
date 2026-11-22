@@ -1,0 +1,18 @@
+{
+  "case_id": "selftest-broken-01",
+  "task": "整理《单层 WS2 中激子局域化与缺陷发射的关联》的引用：合并重复文献、重排编号、核验每条引用是否真实存在并与论断匹配。目标规范：GB/T 7714-2015 顺序编码制。",
+  "manuscript": "manuscript.md",
+  "library": "library.json",
+  "style": "GB/T 7714-2015",
+  "output_contract": {
+    "case_id": "string",
+    "status": "success|partial|unable",
+    "revised_manuscript": "markdown 全文，含重排后的文末列表",
+    "referencelist": "重排后的文献表（结构化）",
+    "merge_decisions": "去重决策与依据",
+    "citation_ledger": "逐条引用核验账本",
+    "dedupe_report": "别名可解析：应回退到 merge_decisions",
+    "quantum_flux_index": "完全未知字段：用于验证契约回退为 null 且被记录",
+    "uncertainty": "人工确认项与材料缺口"
+  }
+}

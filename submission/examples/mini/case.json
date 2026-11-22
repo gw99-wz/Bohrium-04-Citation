@@ -1,0 +1,15 @@
+{
+  "case_id": "example-mini",
+  "task": "整理引用：合并重复文献、重排编号、核验每条引用。目标规范 GB/T 7714-2015。",
+  "manuscript": "manuscript.md",
+  "library": "library.json",
+  "style": "GB/T 7714-2015",
+  "output_contract": {
+    "case_id": "string",
+    "status": "success|partial|unable",
+    "manuscript": "整理后的 markdown 全文",
+    "references": "结构化文献表",
+    "merge_decisions": "去重决策与依据",
+    "citation_ledger": "逐条核验账本"
+  }
+}
