@@ -1,0 +1,27 @@
+# 说明：本文件只服务于 git，**不要**放进 submission/ 提交目录。
+# 赛题要求 Skill 资源为「UTF-8 文本文件、无符号链接」，且避免无后缀名文件，
+# 因此提交树里不出现 .gitignore / LICENSE 这类无扩展名文件（改用 LICENSE.txt）。
+
+# 运行时产物
+work/
+output/
+*.pyc
+*.pyo
+__pycache__/
+.pytest_cache/
+
+# 本地环境
+.venv/
+venv/
+node_modules/
+.env
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 打包与本地产出
+*.zip
+*.log
